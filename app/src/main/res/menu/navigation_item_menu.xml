@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/na_collect" android:icon="@mipmap/ic_launcher" android:title="我的收藏"/>
+    <item android:id="@+id/na_recommend" android:icon="@mipmap/ic_launcher" android:title="我的评论"/>
+    <item android:id="@+id/na_suggest" android:icon="@mipmap/ic_launcher" android:title="意见反馈"/>
+    <item android:id="@+id/na_night" android:icon="@mipmap/ic_launcher" android:title="夜间模式"/>
+    <item android:id="@+id/na_setting" android:icon="@mipmap/ic_launcher" android:title="应用设置"/>
+
+</menu>

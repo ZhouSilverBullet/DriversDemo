@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DriversDemo</string>
+    <string-array name="tab_titles">
+        <item>推荐</item>
+        <item>最新</item>
+        <item>手机</item>
+        <item>IT圈</item>
+        <item>汽车</item>
+        <item>科学</item>
+        <item>游戏</item>
+        <item>电脑</item>
+        <item>影音</item>
+        <item>软件</item>
+        <item>数码</item>
+        <item>家电</item>
+        <item>详情</item>
+    </string-array>
+</resources>
